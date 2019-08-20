@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886363861980",
+    "firebase_url": "https://gosecurimobile-9266b.firebaseio.com",
+    "project_id": "gosecurimobile-9266b",
+    "storage_bucket": "gosecurimobile-9266b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886363861980:android:1cf1d8e409aa1104",
+        "android_client_info": {
+          "package_name": "com.firebaseauth.gosecurimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886363861980-d095cu6narh3r561fod726mnpk0gqk5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVgQilQY-9ko7SMD9bpmmg6Iiz_DyVVD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886363861980-d095cu6narh3r561fod726mnpk0gqk5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
